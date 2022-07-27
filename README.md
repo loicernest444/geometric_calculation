@@ -1,4 +1,4 @@
-# geometry_calculator
+# geometry_calculation
 
 ## Deployment
 
